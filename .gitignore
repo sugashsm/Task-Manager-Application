@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log
+build/
+
+# Maven
+target/
+*.class
+*.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Environment
+.env
+.env.local
+
+# Misc
+.DS_Store
+*.log 
