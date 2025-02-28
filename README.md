@@ -155,4 +155,4 @@ The frontend will start on http://localhost:3000
 - Advanced command options
 
 ## Author
-[Sugash ]
+[Sugash]
